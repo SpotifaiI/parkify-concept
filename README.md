@@ -17,7 +17,7 @@ Introdução e apresentação do projeto Parkify.
 
 ## Não Funcionais
 
-- A Inteligência Artificial deve ser desenvolvida com Python, equanto os atuadores e componentes serão comandados via Arduino, desenvolvidos com C++.
+- A Inteligência Artificial deve ser desenvolvida com Python, enquanto os atuadores e componentes serão comandados via Arduino, desenvolvidos com C++.
 - A aplicação deve fornecer atualizações em tempo real sobre a disponibilidade de vagas, minimizando a latência entre a detecção do sensor e a exibição na interface de visualização.
 - O sistema deve ser escalável para suportar múltiplos estacionamentos e um grande número de sensores e atuadores simultaneamente, mantendo o desempenho constante.
 - A inteligência artificial que analisa padrões de estacionamento deve ser otimizada para lidar com grandes quantidades de dados, como tráfego de veículos e ocupação de vagas, sem degradação de performance.

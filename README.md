@@ -54,3 +54,4 @@ Introdução e apresentação do projeto Parkify.
 # Arquitetura
 
 ![Architecture diagram exploring both hardware and services flow](assets/architecture-diagram.png)
+![Implementation scratch drawing](assets/implementation-example.jpeg)

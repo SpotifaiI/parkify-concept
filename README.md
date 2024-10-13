@@ -23,7 +23,6 @@ Introdução e apresentação do projeto Parkify.
 # Repositórios
 
 - [x] [sense](https://github.com/SpotifaiI/parkify-sense)
-- [x] [act](https://github.com/SpotifaiI/parkify-act)
 - [x] [process](https://github.com/SpotifaiI/parkify-process)
 - [x] [analytics](https://github.com/SpotifaiI/parkify-analytics)
 - [x] [presentation](https://github.com/SpotifaiI/parkify-presentation)

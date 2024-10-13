@@ -20,6 +20,15 @@ Introdução e apresentação do projeto Parkify.
 - [x] Marlon de Souza ([@Marlon-Souza16](https://github.com/Marlon-Souza16))
 - [x] Ryan Gabriel Mazzei Bromati ([@tdayko](https://github.com/tdayko))
 
+# Repositórios
+
+- [x] [sense](https://github.com/SpotifaiI/parkify-sense)
+- [x] [act](https://github.com/SpotifaiI/parkify-act)
+- [x] [process](https://github.com/SpotifaiI/parkify-process)
+- [x] [analytics](https://github.com/SpotifaiI/parkify-analytics)
+- [x] [presentation](https://github.com/SpotifaiI/parkify-presentation)
+- [x] [view](https://github.com/SpotifaiI/parkify-view)
+
 # Requisitos
 
 ## Funcionais
